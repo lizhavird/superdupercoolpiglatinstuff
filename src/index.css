@@ -5,8 +5,16 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    background-size:contain;
+  background-image: url(https://pm1.narvii.com/6907/5782b26722f9bcf0ff39f20ab5c7bb38cd6b1ad1r1-1000-1000v2_uhq.jpg)
+
+
+
+
+
 }
 
+/* Start http://www.cursors-4u.com */ * {cursor: url(http://cur.cursors-4u.net/nature/nat-4/nat330.cur), auto !important;} /* End http://www.cursors-4u.com */
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
